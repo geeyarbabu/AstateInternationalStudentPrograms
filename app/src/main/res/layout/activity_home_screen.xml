@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="students.astateinternationalstudentprograms.HomeScreen">
+
+    <RelativeLayout
+        android:layout_width="151dp"
+        android:layout_height="169dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="161dp"
+        android:background="@drawable/image1">
+
+        <TextView
+            android:id="@+id/homeScreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="45dp"
+            android:text="AState International Student Programs"
+            android:gravity="center"
+            tools:layout_editor_absoluteX="72dp"
+            tools:layout_editor_absoluteY="237dp" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

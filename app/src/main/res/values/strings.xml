@@ -1,0 +1,350 @@
+<resources>
+    <string name="app_name">AState International Programs</string>
+    <string name="action_settings">Settings</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="HomeHeading"><b>HOME</b></string>
+    <string name="homefrag">
+        <body>
+            \n<b>Arkansas state mission</b>\n
+            \nArkansas State University educate leaders, enhances intellectual growth, and enriches lives.
+
+            \n\n<b>ASU System</b>
+            \n\nThe ASU system includes campuses in Jonesboro (Craighead County), which offers degree programs through the doctoral level; Beebe (White County), Mountain Home (Baxter County), and Newport (Jackson County), where associate degree programs are offered; and at Heber Springs, Marked Tree, and Searcy. Arkansas State University-Beebe became part of the ASU System in 1955. It associated with White River Vo-Tech at Newport in 1992; that campus attained stand-alone status and is now Arkansas State University-Newport. The Mountain Home campus officially became ASU-Mountain Home on July 1, 1995. Delta Technical Institute at Marked Tree merged with ASU and became Arkansas State University Technical Center on July 1, 2001. A new campus was built for ASU-Heber Springs, which operates as a sister campus of ASU-Beebe. Foothills Technical Institute at Searcy was merged with ASU-Beebe on July 1, 2003, and is now ASU-Searcy, a technical institute of ASU-Beebe.
+            \n\nASU offers bachelor\'s degree programs, master\'s degree programs and upper level courses through ASU degree centers at ASU-Beebe, ASU-Mountain Home, and three other cities -- Blytheville, Forrest City, and West Memphis—where partnership agreements have been established in cooperation with the local community colleges. ASU also operates an instructional site at nearby Paragould in Greene County.
+            \n\nA-State has grown rapidly over the past 20 years. Current enrollment for the Jonesboro campus stands close to 14,000, and the system has an enrollment of greater than 21,000.
+
+            \n\n<b>Degree Programs</b>
+            \n\nMaster\'s degree graduate programs were initiated in 1955, and ASU began offering its first doctoral degree, in educational leadership, in the fall of 1992. A second doctoral program, in environmental science, was begun in the fall of 1997, and the doctoral program in heritage studies began in the fall of 2001. Newer doctoral programs are in environmental science, molecular biosciences and physical therapy. In the fall of 2016, Arkansas State will enroll the first class of approximately 115 students to its branch of the New York Institute of Technology\'s medical school. The medical school will be located on campus in the historic Wilson Hall.
+            \n\nToday, the institution has more than 80,000 alumni. Programs at the specialist\'s, master\'s, bachelor\'s and associate degree levels are available through the various colleges: Agriculture, Engineering and Technology, Business, Education and Behavioral Science, Liberal Arts and Communication, Nursing and Health Professions, Sciences and Mathematics, and Undergraduate Studies.
+
+            \n\n\n\n\n\n\n\n\n\n\n
+        </body>
+        </string>
+
+
+    <string name="AboutUSHeading"><b>ABOUT   US</b></string>
+    <string name="frag2">
+        <body>
+            \nWhat an exciting time to be involved at Arkansas State as we reach for that next level! Whether it is our highest caliber student body ever, conference championships, or ground breaking research, we are exemplifying what it means to lead the way in higher education.
+
+            \n\nArkansas State is a university where students can discover their life\'s passions - and where professors can achieve their life\'s work. Thank you for your interest, and we welcome you to explore all that the university has to offer.
+
+            \n\n<h1><b>Accreditations</b></h1>
+            \n\nAccrediting organizations set the academic standards by which their member institutions must comply. This quality assurance process is performed by private membership associations. Arkansas State University is accredited by the regional institutional accreditor, the Higher Learning Commission North Central Association.
+
+            \n\nIndividual programs are accredited by specialized accrediting agencies for the respective programs, <a href="https://www.google.com">Click Here</a>
+
+            \n\n\n\n\n\n\n\n\n\n\n
+        </body>
+    </string>
+
+    <string name="degreeHeading"><b>DEGREE</b></string>
+    <string name="degreeSearch"><b>Search</b></string>
+    <string name="frag3">
+        \nList of various degree\'s which ASU offers
+        \n\n<b>UNDERGRADUATE DEGREES</b>
+
+\n\n<b>Associate of Applied Science(A.A.S.)</b>
+\n Clinical Laboratory Sciences
+\n Crime Scene Investigation
+\n Law Enforcement
+\n Law Enforcement Administration
+\n Associate of Applied Science in Occupational Therapy
+\n Paramedic
+\n Physical Therapist Assistant
+\n \n <b>Associate of Applied Science in Nursing (A.A.S.N.)</b>
+\n Nursing
+\n <b>Associate of Art (A.A.)</b>
+\n En Route
+\n \n <b>Associate of General Studies (A.G.S)</b>
+\n General Studies
+\n \n <b>Associate of Science (A.S.)</b>
+\n Accounting
+\n Computer and Information Technology
+\n En Route
+\n Technology
+\n \n <b>Bachelor of Applied Science (B.A.S)</b>
+\n Bachelor of Applied Science
+\n \n <b>Bachelor of Arts (B.A.)</b>
+\n Art
+\n Chemistry
+\n Communication Studies
+\n Computer Science
+\n Criminology
+\n Economics
+\n English
+\n Environmental Studies
+\n History
+\n Music
+\n Philosophy
+\n Political Science
+\n Sociology
+\n Theatre
+\n World Languages and Cultures
+\n \n <b>Bachelor of Fine Arts (B.F.A)</b>
+\n Art
+\n Graphic Design
+\n \n <b>Bachelor of General Studies (B.G.S.)</b>
+\n General Studies
+\n \n <b>Bachelor of Music (B.M.)</b>
+\n Music
+\n \n <b>Bachelor of Music Education (B.M.E.)</b>
+\n Music Education
+\n \n <b>Bachelor of Science (B.S.)</b>
+\n Accounting
+\n Athletic Training
+\n Biological Sciences
+\n Biotechnology
+\n Business Administration
+\n Business Economics
+\n Chemistry
+\n Clinical Laboratory Sciences
+\n Communication Disorders
+\n Computer and Information Technology
+\n Computer Science
+\n Creative Media Production
+\n Dietetics
+\n Environmental Science
+\n Exercise Science
+\n Finance
+\n Global Supply Chain Management
+\n Health Promotion
+\n Health Studies
+\n International Business
+\n Management
+\n Marketing
+\n Mathematics
+\n Multimedia Journalism
+\n Physics
+\n Psychology
+\n Sport Management
+\n Strategic Communications
+\n Technology
+\n Wildlife, Fisheries and Conservation
+\n \n <b>Bachelor of Science in Agriculture (B.S.A.)</b>
+\n Agricultural Business
+\n Agricultural Studies
+\n Animal Science
+\n Plant and Soil Science
+\n \n <b>Bachelor of Science in Civil Engineering (B.S.C.E.)</b>
+\n Civil Engineering
+\n \n <b>Bachelor of Science in Education (B.S.E.)</b>
+\n Business Technology
+\n Elementary Education
+\n English
+\n General Science
+\n Mathematics
+\n Middle Childhood Education
+\n Physical Education
+\n Social Science
+\n Special Education
+\n World Languages and Cultures
+\n \n <b>Bachelor of Science in Electrical Engineering (B.S.E.E.)</b>
+\n Electrical Engineering
+\n \n <b>Bachelor of Science in Interdisciplinary (B.S.I.S)</b>
+\n Interdisciplinary Studies
+\n \n <b>Bachelor of Science in Mechanical Engineering (B.S.M.E.)</b>
+\n Mechanical Engineering
+\n \n <b>Bachelor of Science in Nursing (B.S.N.)</b>
+\n Nursing
+\n \n <b>Bachelor of Science in Radiologic Science (B.S.R.S.)</b>
+\n Radiologic Sciences
+\n \n <b>Bachelor of Social Work (B.S.W.)</b>
+\n Social Work
+\n <b>Undergraduate Certificate (Certificate)</b>
+\n Information Technology
+\n Emergency Medical Technician
+\n Leadership Studies
+\n Paramedic
+\n Social Media Management
+\n Minor
+\n Accounting
+\n African-American Studies
+\n Agricultural Business
+\n Agricultural Mechanics
+\n Animal Science
+\n Art
+\n Art History
+\n Biology
+\n Chemistry
+\n Children\'s Advocacy Studies
+\n Cognitive Science
+\n Communication Studies
+\n Computer and Information Technology
+\n Computer Science
+\n Creative Media Production
+\n Criminology
+\n Crop Consulting and Agronomic Services
+\n Digital Design
+\n Economics
+\n Electronic Commerce
+\n Engineering
+\n English
+\n Entrepreneurship
+\n Finance
+\n Financial Wealth Management
+\n Folklore Studies
+\n French
+\n General Business
+\n German
+\n Graphic Design
+\n History
+\n History and Philosophy of Science and Technology
+\n Homeland Security and Disaster Preparedness
+\n Horticulture
+\n Interdisciplinary Family Studies
+\n International Business
+\n International Studies
+\n Leadership Studies
+\n Logistics
+\n Management
+\n Marine Science
+\n Marketing
+\n Mathematics
+\n Multimedia Journalism
+\n Medieval Studies
+\n Military Science and Leadership
+\n Modern European Studies
+\n Music
+\n Philosophy
+\n Physics
+\n Plant Science
+\n Political Science
+\n Psychology
+\n Religious Studies
+\n Renewable Energy Technology
+\n Sales Leadership
+\n Sociology
+\n Spanish
+\n Spatial Technologies and Geographic Information Systems
+\n Sports Media
+\n Statistics
+\n Strategic Communication
+\n Theatre
+\n United States History
+\n Women and Gender Studies
+\n Writing Studies
+        \n\n<b>GRADUATE DEGREES</b>
+   \n\n <b>Graduate Certificate (Certificate)</b>
+\n Addiction Studies
+\n Aging Studies
+\n Health Care Management
+\n Health Communication
+\n Health Sciences Education
+\n Clinical Mental Health Counseling
+\n \n <b>Doctorate of Philosophy (Ph.D.)</b>
+\n Environmental Sciences
+\n Heritage Studies
+\n Molecular Biosciences
+\n \n <b>Doctor of Occupational Therapy (O.T.D)</b>
+\n Occupational Therapy Doctorate
+\n \n <b>Doctor of Physical Therapy (D.P.T.)</b>
+\n Physical Therapy
+\n \n <b>Master of Accountancy(M.A.cc)</b>
+\n Master of Accountancy
+\n \n <b>Master of Arts (M.A.)</b>
+\n Biological Sciences
+\n Communication Studies
+\n Criminal Justice
+\n English
+\n History
+\n Political Science
+\n Sociology
+\n \n <b>Master of Arts in Teaching (M.A.T.)</b>
+\n Teaching
+\n \n <b>Master of Athletic Training (M.AT)</b>
+\n Master of Athletic Training
+\n \n <b>Master of Business Administration (M.B.A.)</b>
+\n Business Administration
+\n \n <b>Master of Communication Disorders (M.C.D.)</b>
+\n Communication Disorders
+\n \n <b>Master of Engineering Management (M.E.M.)</b>
+\n Engineering Management
+\n \n <b>Master of Music (M.M.)</b>
+\n Music
+\n \n <b>Master of Music Education (M.M.E.)</b>
+\n Music Education
+\n \n <b>Master of Public Administration (M.P.A.)</b>
+\n Public Administration
+\n \n <b>Master of Science (M.S.)</b>
+\n Biology
+\n Chemistry
+\n Computer Science
+\n Early Childhood Services
+\n Environmental Sciences
+\n Exercise Science
+\n Mathematics
+\n Molecular Biosciences
+\n Psychological Science
+\n Sport Administration
+\n \n <b>Master of Science in Agriculture (M.S.A.)</b>
+\n Agriculture
+\n \n <b>Master of Science in Education (M.S.E)</b>
+\n Biology
+\n Chemistry
+\n Early Childhood Education
+\n English
+\n Mathematics
+\n Middle Level Education
+\n Physical Education
+\n Social Science
+\n Special Education - Gifted, Talented, and Creative
+\n Special Education - Gifted, Talented, and Creative (online)
+\n Special Education Instructional Specialist K-12 (online)
+\n \n <b>Master of Science in Engineering (M.S.E.)</b>
+\n Engineering
+\n \n <b>Master of Science in Mass Communications (M.S.M.C.)</b>
+\n Mass Communications
+\n \n <b>Master of Science in Nursing (M.S.N.)</b>
+\n Adult-Gerontology Clinical Nurse Specialist
+\n Family Nurse Practitioner
+\n Nurse Anesthesia
+\n Nursing
+\n \n <b>Master of Science in Social Work (M.S.W.)</b>
+\n Social Work
+\n \n <b>Professional Science Master (P.S.M)</b>
+\n Biotechnology
+\n \n <b>pecialist in Education (Ed.S.)
+\n Educational Leadership (online)</b>
+\n Clinical Mental Health Counseling
+\n Psychology and Counseling
+\n School Psychology
+\n Reading
+\n\n
+<a href="https://www.google.com">Click Here </a> to see in detail.
+        \n\n\n\n\n\n\n\n\n\n\n
+    </string>
+    <string name="costHeading"><b>COST</b></string>
+    <string name="frag4">
+        "
+        \nAn education at Arkansas State University is a key that can open many doors throughout your career. The costs you incur now will be returned to you many times over time.
+\nYour international tuition at A-State is based on a variety of factors including how many hours you are enrolled in and which college houses your selected major. In addition to tuition and fees, international students have additional costs that include health screenings and insurance.
+\n\n<b>Calculating Your Tuition</b>
+\nTo calculate your tuition, multiply the tuition per credit hour rate and the required hourly fees by the number of hours you are taking for a given semester. If you meet any of the required term fee or additional fees criteria, add them to your total number.
+\n\n<b>Course Fees</b>
+\nPlease note that your tuition could vary based on fees associated with specific courses. These course fees can range from $5.00 - $255.00 per course.
+\n\n<b>Identity Compliance Fee</b>
+\nAn Identity Compliance Fee of $10.00 per credit hour will be applied to all online courses excluding High School Concurrent courses or those offered in the Online MBA Program.
+\n\n<b>Waivers</b>
+\nA-State grants in-state tuition to students who qualify.
+
+        \n<a href="https://www.google.com">See if you qualify for a waiver >></a>
+
+\n\n<b>Doctorate Tuition and Fees</b>
+\n<a href="https://www.google.com"> View international tuition and fee rates for doctorate programs >> </a>
+
+\nFor a detailed list of our tuition and fee information, review the tables below.
+
+        "
+    </string>
+    <string name="frag5">Fragment5</string>
+    <string name="frag6">Fragment6</string>
+    <string name="frag7">Fragment7</string>
+    <string name="frag8">Fragment8</string>
+    <string name="frag9">Fragment9</string>
+    <string name="frag10">Fragment10</string>
+</resources>
